@@ -49,8 +49,8 @@ Everything on a public website can be downloaded; these measures only reduce the
 
 ## Publish
 
-Live at https://ry149.github.io from the repo `ry149/ry149.github.io` (GitHub Pages, branch `main`).
+Live at https://rolandyang.com (domain on Cloudflare, DNS only) from the repo `ry149/ry149.github.io` (GitHub Pages, branch `main`).
 To update: commit and push to `main`; the site rebuilds in about a minute. Keep each file under 100 MB.
 
 If the site address changes, update `og:image` in the three HTML files to the new absolute URL
-(currently `https://ry149.github.io/assets/img/og.jpg`) so link previews show the image.
+(currently `https://rolandyang.com/assets/img/og.jpg`) so link previews show the image.
